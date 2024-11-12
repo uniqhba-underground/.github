@@ -1,3 +1,3 @@
-## Komunitas Underground UNIQHBA
+## Komunitas IT UNIQHBA
 
 ![UNIQHBA Underground](./img/cover.png "UNIQHBA Underground")
